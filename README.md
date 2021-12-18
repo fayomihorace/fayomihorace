@@ -16,10 +16,10 @@
 
 <br />
 
-hi, i'm [Horace Folahan FAYOMI](), a passionate about programming art, full stack web developer.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+hi, I'm [Horace Folahan FAYOMI](), a passionate about programming art, and a full stack web developer.
   
 - 💼 I worked with python, Django, VueJs, Javascript, MongoDB 
 - 💬 I'm currently mastering React.js and Node.js 
+<br />
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
