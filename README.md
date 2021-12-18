@@ -8,11 +8,10 @@
 <a href="">
   <img align="left" alt="Horace FAYOMI LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
-hi, I'm [Horace Folahan FAYOMI](), a passionate about programming art, and a full stack web developer.
+Hi, I'm [Horace Folahan FAYOMI](), a passionate about programming art, and a full stack web developer.
   
 - 💼 I worked with python, Django, VueJs, Javascript, MongoDB 
 - 💬 I'm currently mastering React.js and Node.js 
