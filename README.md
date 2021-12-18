@@ -10,6 +10,7 @@
 </a>
 
 <br />
+
 I'm [Horace Folahan FAYOMI](), a passionate about programming art, and a full stack web developer.
   
 - 💼 I've more than 2years experience working with Python, Django, VueJs, Javascript, MongoDB, GraphQL :relieved:. 
