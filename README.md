@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I'm [Horace Folahan FAYOMI](), a passionate about programming art, and a full stack web developer.
+I'm [Horace Folahan FAYOMI](), a passionate about using programming to solve problems, and a full stack web developer.
   
 - 💼 I spent more than 3 years working with Python and Django, and almost 2 years working with VueJs, Javascript, MongoDB, GraphQL and still working with them as they are awesome :relieved:. 
 - :sunglasses: I'm currently learning and mastering React.js :blush:.
