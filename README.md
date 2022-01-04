@@ -19,6 +19,6 @@ I'm [Horace Folahan FAYOMI](), a passionate about programming art, and a full st
 - :book: I'm currenlty working on an awesome :grin: personal prodcut [MasterTheDocs](https://MasterTheDocs.com) built with a Django Backend and a React.js frontend (I used tailwind css for the style :smirk:). I'll be very gratefull if you subscribe :wink:.  
 <br />
 
-If you want to know more about my work experience, please kindly check my [@horace-fayomi](https://www.linkedin.com/in/horace-fayomi-b58a98177/).
+If you want to know more about my work experience, please kindly check my linkedin [@horace-fayomi](https://www.linkedin.com/in/horace-fayomi-b58a98177/).
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
