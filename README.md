@@ -16,7 +16,7 @@ I'm [Horace Folahan FAYOMI](), a passionate about using programming to solve pro
   
 - 💼 I spent more than 3 years working with Python and Django, and almost 2 years working with VueJs, Javascript, MongoDB, GraphQL and still working with them as they are awesome :relieved:. 
 - :book: I'm currently learning and mastering React.js:.
-- :sunglasses: I'm currenlty working on an awesome :grin: personal prodcut [MasterTheDocs](https://MasterTheDocs.com) built with a Django Backend and a React.js frontend (I used tailwind css for the style :smirk:). I'll be very gratefull if you subscribe :wink:.  
+- :sunglasses: I'm currenlty working on an awesome :grin: personal prodcut [MasterTheDocs](https://MasterTheDocs.com) built with a Django Backend and a React.js frontend (I used tailwind css for the style :smirk:). I'll be very gratefull if you subscribe :pray:.  
 <br />
 
 If you want to know more about my work experience, please kindly check my linkedin [@horace-fayomi](https://www.linkedin.com/in/horace-fayomi-b58a98177/).
