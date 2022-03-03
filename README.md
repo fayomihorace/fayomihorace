@@ -12,9 +12,10 @@
 <br />
 <br />
 
-I'm [Horace Folahan FAYOMI](), a passionate about using programming to solve problems, and a full stack web developer.
+I'm [Horace Folahan FAYOMI](), a remote Software engineer and Technical writter, passionate about using programming to solve problems.
   
 - 💼 I spent more than 3 years working with Python and Django, and almost 2 years working with VueJs, Javascript, MongoDB, GraphQL and still working with them as they are awesome :relieved:. 
+- :page_facing_up: I write articles, tutorials and courses about various technologies on [https://dev.to/fayomihorace](https://dev.to/fayomihorace) :wink:.
 - :book: I'm currently learning and mastering React.js.
 - :sunglasses: I'm currenlty working on an awesome :grin: personal prodcut [MasterTheDocs](https://MasterTheDocs.com) built with a Django Backend and a React.js frontend (I used tailwind css for the style :smirk:). I'll be very gratefull if you subscribe :pray:.  
 <br />
