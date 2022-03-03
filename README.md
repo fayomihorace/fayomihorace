@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I'm [Horace Folahan FAYOMI](), a remote Software engineer and Technical writter, passionate about using programming to solve problems.
+I'm [Horace Folahan FAYOMI](), a remote **Software engineer** and **Technical writter**, passionate about using programming to solve problems.
   
 - 💼 I spent more than 3 years working with Python and Django, and almost 2 years working with VueJs, Javascript, MongoDB, GraphQL and still working with them as they are awesome :relieved:. 
 - :page_facing_up: I write articles, tutorials and courses about various technologies on [https://dev.to/fayomihorace](https://dev.to/fayomihorace) :wink:.
