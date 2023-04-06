@@ -12,11 +12,13 @@
 <br />
 <br />
 
-I'm [Horace Folahan FAYOMI](), a remote **Software engineer** and **Technical writer**, passionate about using programming to solve problems.
+I'm [Horace Folahan FAYOMI](), a remote **Software engineer**, **Technical writer** and **Video Creator**, passionate about using programming to solve problems.
   
-- 💼 I have 4+ years experience as software engineer (4 years with Python, 3years with Django, 2 years with VueJs, MongoDB, GraphQL and more than 1 year with React). 
+- 💼 I have 4+ years experience as software engineer (4 years with Python, 3 years with Django, 2 years with VueJs, MongoDB, GraphQL and more than 1 year with React).
 - :page_facing_up: I write articles, tutorials and courses about various technologies on [https://dev.to/fayomihorace](https://dev.to/fayomihorace), feel free to check, :wink:.
-- :book: I'm currently spending time mastering React.js & Next & TypeScript and the ecosystem around with various projects (Almost 1 year). Oh I also started working with FastAPI few months ago to get a taste because of the hype around it ^_^.
+- I own a [Youtube channel](https://www.youtube.com/@horaceCodes) where I share what I know and learn . Feel free to check it out :grin:.
+- :book: I'm currently spending time playing with React.js & Next & TypeScript and the ecosystem around with various projects.
+- Oh, I also started working with FastAPI few months ago to get a taste because of the hype around it ^_^.
 <br />
 
 If you want to know more about my work experience, please kindly check my linkedin [@horace-fayomi](https://www.linkedin.com/in/horace-fayomi-b58a98177/).
