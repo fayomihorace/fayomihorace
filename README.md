@@ -14,7 +14,7 @@
 
 I'm [Horace Folahan FAYOMI](), a remote **Software engineer**, **Technical writer** and **Video Creator**, passionate about using programming to solve problems.
   
-- 💼 I have 4+ years experience as software engineer (4 years with Python, 3 years with Django, 2 years with VueJs, MongoDB, GraphQL and more than 1 year with React).
+- 💼 I have 7+ years experience as software engineer (4 years with Python, 3 years with Django, 2 years with VueJs, MongoDB, GraphQL and more than 1 year with React).
 - :page_facing_up: I write articles, tutorials and courses about various technologies on [https://dev.to/fayomihorace](https://dev.to/fayomihorace), feel free to check, :wink:.
 - I own a [Youtube channel](https://www.youtube.com/@horaceCodes) where I share what I know and learn . Feel free to check it out :grin:.
 - :book: I'm currently spending time playing with React.js & Next & TypeScript and the ecosystem around with various projects.
